@@ -7,7 +7,7 @@ Orthopaedics
 History of chronic alcohol use.
 
 ## Issue Identified
-Concurrent prescription of IV thiamine and oral thiamine.
+Concurrent prescription of IV thiamine (100 mg IV) and oral thiamine (100 mg).
 
 ## Clinical Rationale
 IV thiamine is indicated initially in alcoholic patients to prevent Wernicke’s encephalopathy. Oral thiamine is usually introduced during maintenance phase.
