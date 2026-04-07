@@ -3,17 +3,22 @@
 ## Department
 Orthopaedics
 
-## Issue Identified
-Concurrent prescription of IV and oral thiamine.
+## Patient Background
+History of chronic alcohol use.
 
-## Clinical Context
-Patient with history of alcohol use. IV thiamine initiated.
+## Issue Identified
+Concurrent prescription of IV thiamine and oral thiamine.
+
+## Clinical Rationale
+IV thiamine is indicated initially in alcoholic patients to prevent Wernicke’s encephalopathy. Oral thiamine is usually introduced during maintenance phase.
 
 ## Assessment
-Potential therapeutic duplication depending on treatment phase.
+Possible therapeutic duplication depending on timing of administration and clinical status.
 
 ## Recommendation
-Evaluate necessity of both formulations. Consider step-down to oral therapy.
+- Review indication for dual therapy  
+- Consider step-down from IV to oral therapy when clinically stable  
 
-## Tools Used
-Micromedex, Lexicomp
+## References
+- Micromedex  
+- Lexicomp
